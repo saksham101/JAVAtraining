@@ -1,7 +1,7 @@
 # Day 01
 ## Problem 1
 ```
-Pattern to print
+Print Pattern
 *
 **
 ***
@@ -28,7 +28,7 @@ public class Pattern1
 ```
 ## Problem 2
 ```
-Pattern to print
+Print Pattern
     * 
    * *
   * * *
