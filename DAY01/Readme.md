@@ -96,7 +96,7 @@ public class TaxCalculation
     }
     System.out.println("For Salary "+salary+", DA would be @ 60% amount is "+DA+"Rs.");
     System.out.println("For Salary "+salary+", HRA would be @ 15% amount is "+HRA+"Rs.");
-	System.out.println("For Salary "+salary+", Tax would be @ "+taxRate+"% amount "+tax+"Rs.");
+    System.out.println("For Salary "+salary+", Tax would be @ "+taxRate+"% amount "+tax+"Rs.");
    }
 }
 ```
